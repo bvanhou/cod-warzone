@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/cod-warzone/static/css/main.b891994b.chunk.css",
-    "main.js": "/cod-warzone/static/js/main.788e5c37.chunk.js",
-    "main.js.map": "/cod-warzone/static/js/main.788e5c37.chunk.js.map",
-    "runtime-main.js": "/cod-warzone/static/js/runtime-main.677993d3.js",
-    "runtime-main.js.map": "/cod-warzone/static/js/runtime-main.677993d3.js.map",
-    "static/js/2.ed604a7c.chunk.js": "/cod-warzone/static/js/2.ed604a7c.chunk.js",
-    "static/js/2.ed604a7c.chunk.js.map": "/cod-warzone/static/js/2.ed604a7c.chunk.js.map",
-    "static/js/3.85f5305d.chunk.js": "/cod-warzone/static/js/3.85f5305d.chunk.js",
-    "static/js/3.85f5305d.chunk.js.map": "/cod-warzone/static/js/3.85f5305d.chunk.js.map",
+    "main.js": "/cod-warzone/static/js/main.2a1b6aee.chunk.js",
+    "main.js.map": "/cod-warzone/static/js/main.2a1b6aee.chunk.js.map",
+    "runtime-main.js": "/cod-warzone/static/js/runtime-main.862903d5.js",
+    "runtime-main.js.map": "/cod-warzone/static/js/runtime-main.862903d5.js.map",
+    "static/css/2.63590c18.chunk.css": "/cod-warzone/static/css/2.63590c18.chunk.css",
+    "static/js/2.8c79f331.chunk.js": "/cod-warzone/static/js/2.8c79f331.chunk.js",
+    "static/js/2.8c79f331.chunk.js.map": "/cod-warzone/static/js/2.8c79f331.chunk.js.map",
+    "static/js/3.e92a6a03.chunk.js": "/cod-warzone/static/js/3.e92a6a03.chunk.js",
+    "static/js/3.e92a6a03.chunk.js.map": "/cod-warzone/static/js/3.e92a6a03.chunk.js.map",
     "index.html": "/cod-warzone/index.html",
+    "static/css/2.63590c18.chunk.css.map": "/cod-warzone/static/css/2.63590c18.chunk.css.map",
     "static/css/main.b891994b.chunk.css.map": "/cod-warzone/static/css/main.b891994b.chunk.css.map",
-    "static/js/2.ed604a7c.chunk.js.LICENSE.txt": "/cod-warzone/static/js/2.ed604a7c.chunk.js.LICENSE.txt",
+    "static/js/2.8c79f331.chunk.js.LICENSE.txt": "/cod-warzone/static/js/2.8c79f331.chunk.js.LICENSE.txt",
     "static/media/map-overview-bg.ccfc7476.jpg": "/cod-warzone/static/media/map-overview-bg.ccfc7476.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.677993d3.js",
-    "static/js/2.ed604a7c.chunk.js",
+    "static/js/runtime-main.862903d5.js",
+    "static/css/2.63590c18.chunk.css",
+    "static/js/2.8c79f331.chunk.js",
     "static/css/main.b891994b.chunk.css",
-    "static/js/main.788e5c37.chunk.js"
+    "static/js/main.2a1b6aee.chunk.js"
   ]
 }
