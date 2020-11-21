@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cod-warzone/static/css/main.51eeab52.chunk.css",
+    "main.css": "/cod-warzone/static/css/main.53fbdac6.chunk.css",
     "main.js": "/cod-warzone/static/js/main.eabfdfba.chunk.js",
     "main.js.map": "/cod-warzone/static/js/main.eabfdfba.chunk.js.map",
     "runtime-main.js": "/cod-warzone/static/js/runtime-main.0255dc5d.js",
@@ -10,14 +10,14 @@
     "static/js/3.362ae58d.chunk.js": "/cod-warzone/static/js/3.362ae58d.chunk.js",
     "static/js/3.362ae58d.chunk.js.map": "/cod-warzone/static/js/3.362ae58d.chunk.js.map",
     "index.html": "/cod-warzone/index.html",
-    "static/css/main.51eeab52.chunk.css.map": "/cod-warzone/static/css/main.51eeab52.chunk.css.map",
+    "static/css/main.53fbdac6.chunk.css.map": "/cod-warzone/static/css/main.53fbdac6.chunk.css.map",
     "static/js/2.ee0a622a.chunk.js.LICENSE.txt": "/cod-warzone/static/js/2.ee0a622a.chunk.js.LICENSE.txt",
     "static/media/map-overview-bg.ccfc7476.jpg": "/cod-warzone/static/media/map-overview-bg.ccfc7476.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0255dc5d.js",
     "static/js/2.ee0a622a.chunk.js",
-    "static/css/main.51eeab52.chunk.css",
+    "static/css/main.53fbdac6.chunk.css",
     "static/js/main.eabfdfba.chunk.js"
   ]
 }
