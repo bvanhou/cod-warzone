@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cod-warzone/static/css/main.b891994b.chunk.css",
-    "main.js": "/cod-warzone/static/js/main.cefa605e.chunk.js",
-    "main.js.map": "/cod-warzone/static/js/main.cefa605e.chunk.js.map",
+    "main.js": "/cod-warzone/static/js/main.3392eb9e.chunk.js",
+    "main.js.map": "/cod-warzone/static/js/main.3392eb9e.chunk.js.map",
     "runtime-main.js": "/cod-warzone/static/js/runtime-main.0255dc5d.js",
     "runtime-main.js.map": "/cod-warzone/static/js/runtime-main.0255dc5d.js.map",
     "static/js/2.f1b6613e.chunk.js": "/cod-warzone/static/js/2.f1b6613e.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.0255dc5d.js",
     "static/js/2.f1b6613e.chunk.js",
     "static/css/main.b891994b.chunk.css",
-    "static/js/main.cefa605e.chunk.js"
+    "static/js/main.3392eb9e.chunk.js"
   ]
 }
