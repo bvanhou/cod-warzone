@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/cod-warzone/static/css/main.b23c533d.chunk.css",
-    "main.js": "/cod-warzone/static/js/main.d8469d90.chunk.js",
-    "main.js.map": "/cod-warzone/static/js/main.d8469d90.chunk.js.map",
-    "runtime-main.js": "/cod-warzone/static/js/runtime-main.0255dc5d.js",
-    "runtime-main.js.map": "/cod-warzone/static/js/runtime-main.0255dc5d.js.map",
-    "static/js/2.685c8e95.chunk.js": "/cod-warzone/static/js/2.685c8e95.chunk.js",
-    "static/js/2.685c8e95.chunk.js.map": "/cod-warzone/static/js/2.685c8e95.chunk.js.map",
-    "static/js/3.362ae58d.chunk.js": "/cod-warzone/static/js/3.362ae58d.chunk.js",
-    "static/js/3.362ae58d.chunk.js.map": "/cod-warzone/static/js/3.362ae58d.chunk.js.map",
+    "main.js": "/cod-warzone/static/js/main.265af951.chunk.js",
+    "main.js.map": "/cod-warzone/static/js/main.265af951.chunk.js.map",
+    "runtime-main.js": "/cod-warzone/static/js/runtime-main.b962a0e6.js",
+    "runtime-main.js.map": "/cod-warzone/static/js/runtime-main.b962a0e6.js.map",
+    "static/js/2.c507840b.chunk.js": "/cod-warzone/static/js/2.c507840b.chunk.js",
+    "static/js/2.c507840b.chunk.js.map": "/cod-warzone/static/js/2.c507840b.chunk.js.map",
+    "static/js/3.211d02ca.chunk.js": "/cod-warzone/static/js/3.211d02ca.chunk.js",
+    "static/js/3.211d02ca.chunk.js.map": "/cod-warzone/static/js/3.211d02ca.chunk.js.map",
     "index.html": "/cod-warzone/index.html",
     "static/css/main.b23c533d.chunk.css.map": "/cod-warzone/static/css/main.b23c533d.chunk.css.map",
-    "static/js/2.685c8e95.chunk.js.LICENSE.txt": "/cod-warzone/static/js/2.685c8e95.chunk.js.LICENSE.txt",
+    "static/js/2.c507840b.chunk.js.LICENSE.txt": "/cod-warzone/static/js/2.c507840b.chunk.js.LICENSE.txt",
     "static/media/map-overview-bg.ccfc7476.jpg": "/cod-warzone/static/media/map-overview-bg.ccfc7476.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0255dc5d.js",
-    "static/js/2.685c8e95.chunk.js",
+    "static/js/runtime-main.b962a0e6.js",
+    "static/js/2.c507840b.chunk.js",
     "static/css/main.b23c533d.chunk.css",
-    "static/js/main.d8469d90.chunk.js"
+    "static/js/main.265af951.chunk.js"
   ]
 }
