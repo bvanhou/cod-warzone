@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/cod-warzone/static/css/main.725e882c.chunk.css",
-    "main.js": "/cod-warzone/static/js/main.b0af4cdf.chunk.js",
-    "main.js.map": "/cod-warzone/static/js/main.b0af4cdf.chunk.js.map",
+    "main.js": "/cod-warzone/static/js/main.711337e7.chunk.js",
+    "main.js.map": "/cod-warzone/static/js/main.711337e7.chunk.js.map",
     "runtime-main.js": "/cod-warzone/static/js/runtime-main.dedf5447.js",
     "runtime-main.js.map": "/cod-warzone/static/js/runtime-main.dedf5447.js.map",
-    "static/js/2.98ccb875.chunk.js": "/cod-warzone/static/js/2.98ccb875.chunk.js",
-    "static/js/2.98ccb875.chunk.js.map": "/cod-warzone/static/js/2.98ccb875.chunk.js.map",
+    "static/js/2.ac91800c.chunk.js": "/cod-warzone/static/js/2.ac91800c.chunk.js",
+    "static/js/2.ac91800c.chunk.js.map": "/cod-warzone/static/js/2.ac91800c.chunk.js.map",
     "static/js/3.05a35a2a.chunk.js": "/cod-warzone/static/js/3.05a35a2a.chunk.js",
     "static/js/3.05a35a2a.chunk.js.map": "/cod-warzone/static/js/3.05a35a2a.chunk.js.map",
     "index.html": "/cod-warzone/index.html",
     "static/css/main.725e882c.chunk.css.map": "/cod-warzone/static/css/main.725e882c.chunk.css.map",
-    "static/js/2.98ccb875.chunk.js.LICENSE.txt": "/cod-warzone/static/js/2.98ccb875.chunk.js.LICENSE.txt",
+    "static/js/2.ac91800c.chunk.js.LICENSE.txt": "/cod-warzone/static/js/2.ac91800c.chunk.js.LICENSE.txt",
     "static/media/map-overview-bg.ccfc7476.jpg": "/cod-warzone/static/media/map-overview-bg.ccfc7476.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.dedf5447.js",
-    "static/js/2.98ccb875.chunk.js",
+    "static/js/2.ac91800c.chunk.js",
     "static/css/main.725e882c.chunk.css",
-    "static/js/main.b0af4cdf.chunk.js"
+    "static/js/main.711337e7.chunk.js"
   ]
 }
