@@ -4,6 +4,8 @@ object-assign
 @license MIT
 */
 
+/*! npm.im/intrinsic-scale */
+
 /**
  * @license
  * Lodash <https://lodash.com/>
